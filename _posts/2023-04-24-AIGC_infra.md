@@ -34,4 +34,3 @@ As AI technology continues to advance at a rapid pace, AIGC remains committed to
 
 We hope you enjoyed this brief overview of AIGC's history and impact on the AI landscape. Stay tuned for more posts on AI-related topics, and feel free to share your thoughts and opinions in the comments section below!
 
-{% include_relative _disqus_comments.html %}
