@@ -1,4 +1,78 @@
-theme: minima
-title:
-author: Dr.Z 
-description: A computer architect and fan of tech, soccer, music, and food.
+# Basic
+title: David Xiao 
+subtitle: Personal Technical Blog
+description: Welcome to my personal blog
+# 头像里面的标题
+avatarTitle: David Xiao
+# 头像里面的描述
+avatarDesc: AI, Computer Architecture and Chip Design
+url: ""
+
+# 博客是否自动生成目录，false为不生成
+enableToc: true
+
+# Comment
+comment:
+    # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
+    # disqus: eepinkman
+
+# Social
+social:
+    # weibo: 5366874726 
+    github: eepinkman 
+    # zhihu: panpanleopard
+    # juejin: xxx
+    #jianshu: 2ada30d8d0f7
+    # twitter: 
+    mail: livegreenfans@gmail.com
+
+
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+ga:
+    id: UA-19997632-2  
+    host: auto  
+
+
+# 《----------------- 上面的信息修改成你自己的 ---------------------------》
+#
+#
+#  _post/ 下的文章更换成你自己的文章
+#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#
+#
+# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
+
+
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog Main Page 
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: All Post, description: archive, url: '/archive'}   
+    - {title: Tags, description: tags, url: '/tags'}      
+    - {title: Technical Support, description: support, url: '/support'}      
+    - {title: About, description: about, url: '/about'}   
+    
+
+# Pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 20
+paginate_path: "page/:num/"
+
+
