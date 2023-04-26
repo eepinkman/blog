@@ -12,8 +12,6 @@ Welcome to my blog! In today's post, we'll explore the fascinating history of AI
 
 ## The Origins of AIGC
 
-The Origins of AIGC
-
 AIGC was founded in 2021 by a group of AI enthusiasts, researchers, and developers who recognized the enormous potential of artificial intelligence to change the world. With their shared passion for cutting-edge technology, they came together to form a collective aimed at advancing AI research and development. AIGC's mission was to not only push the boundaries of AI technology but to also ensure that its benefits were made accessible to all.
 Notable Milestones
 
@@ -28,7 +26,7 @@ From the very beginning, AIGC emphasized the importance of open collaboration, w
 In response to growing concerns about the ethical implications of AI, AIGC developed a comprehensive ethics framework that outlined principles and guidelines for responsible AI development. This framework helped ensure that AI technologies were developed in a way that prioritized the well-being of individuals and society as a whole.
 
 
-###AI for Social Good
+### AI for Social Good
 
 AIGC also made it a priority to direct its resources towards projects that had the potential to positively impact society. By partnering with non-profit organizations and focusing on projects that addressed pressing global issues, AIGC demonstrated its commitment to using AI for the greater good.
 Impact on Society
